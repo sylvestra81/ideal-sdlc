@@ -22,5 +22,8 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+    <build>
+        <finalName>devops-2024</finalName>
+    </build>
 
 </project>
